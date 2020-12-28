@@ -12,6 +12,7 @@ public class Number {
 		System.out.println(Math.floor(Math.PI)); // 내림
 		System.out.println(Math.ceil(Math.PI)); // 올림
 		
+		
 	}
 
 }
