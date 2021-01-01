@@ -7,7 +7,7 @@ public class HelloWorldGUIApp{
             public void run() {
                 JFrame frame = new JFrame("HelloWorld GUI");
                 frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-                frame.setPreferredSize(new Dimension(500, 300));
+                frame.setPreferredSize(new Dimension(700, 500));
                 JLabel label = new JLabel("Hello World!!", SwingConstants.CENTER);
                 frame.getContentPane().add(label);
                 Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
