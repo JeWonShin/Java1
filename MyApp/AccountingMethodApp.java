@@ -1,6 +1,6 @@
 
 public class AccountingMethodApp {
-	public static double valueOfSupply;  // 전역변수로 적용(모든 메소드에서 동일하게 적용)
+	public static double valueOfSupply;  //전역변수로 적용(모든 메소드에서 동일하게 적용)
 	public static double vatRate;
 	public static double expenseRate;
 	public static void main(String[] args) {
